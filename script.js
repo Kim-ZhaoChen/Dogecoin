@@ -1,0 +1,1 @@
+var destination = document.querySelector("destination_form_details");
